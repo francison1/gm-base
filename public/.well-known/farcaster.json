@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "paste-your-header-here-inside-the-quotes",
+    "payload": "paste-your-payload-here-inside-the-quotes",
+    "signature": "paste-your-signature-here-inside-the-quotes"
+  },
+  "miniapp": {
+    "version": "1",
+    "name": "GM Base",
+    "iconUrl": "https://base-gm.vercel.app/icon.jpg",
+    "homeUrl": "https://base-gm.vercel.app",
+    "imageUrl": "https://base-gm.vercel.app/og-image.jpg",
+    "splashImageUrl": "https://base-gm.vercel.app/splash.jpg",
+    "splashBackgroundColor": "#581c87",
+    "primaryCategory": "social",
+    "tags": ["social", "daily", "gm", "streak", "base"]
+  }
+}
